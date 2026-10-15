@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+message: "If you use or adapt the AISI Model, please cite it as below."
+title: "AISI Model: Artificial Intelligence System Interconnection Model"
+version: "2.0"
+date-released: "2026-10-14"
+license: Apache-2.0
+repository-code: "https://github.com/jasonmichaelrobbins-arch/AISI_Model"
+authors:
+  - family-names: Robbins
+    given-names: Jason
+abstract: >-
+  A seven-layer reference architecture for AI systems that call other agents,
+  Model Context Protocol servers and tools: four internal layers, three exposed
+  layers, cross-cutting governance and a signed audit trail, a six-phase trust
+  sequence, and a baseline of 45 controls with owners and priorities. Published
+  as a core document and six companions (Quick Start Guide, A2A Protocol
+  Specification, Baseline Controls, Security Reference, Implementation Guide,
+  Operations and Lifecycle Reference).
+keywords:
+  - AI security
+  - agent security
+  - reference architecture
+  - Model Context Protocol
+  - A2A
+  - governance

@@ -1,0 +1,38 @@
+AISI Model (Artificial Intelligence System Interconnection Model)
+Copyright 2026 Jason Robbins
+
+This work is licensed under the Apache License, Version 2.0. See the LICENSE
+file for the license text. This NOTICE file carries attribution information
+only; it adds no terms to the license.
+
+The AISI Model name and the document set identify this project. Forks,
+adaptations and derived works may use the material under the license and must
+not state or imply that the author endorses them. The license grants no
+trademark rights.
+
+Third-party material
+
+The documents cite the following frameworks by name and by identifier
+(control, article, technique and case study numbers). They do not reproduce
+the frameworks, which remain subject to their owners' terms:
+
+- OWASP Top 10 for LLM Applications and OWASP Top 10 for Agentic Applications
+  (OWASP GenAI Security Project; OWASP material is published under Creative
+  Commons terms stated by the project).
+- MITRE ATLAS (The MITRE Corporation; the ATLAS data is published under its
+  own license in the mitre-atlas/atlas-data repository).
+- NIST AI Risk Management Framework and NIST AI 600-1 (United States
+  Government work).
+- ISO/IEC 42001 (ISO and IEC; cited by clause and Annex A control number only).
+- Regulation (EU) 2024/1689, the EU AI Act, as amended (European Union; cited
+  by article).
+- CSA AI Controls Matrix (Cloud Security Alliance).
+- The A2A protocol specification and the Model Context Protocol specification
+  (their respective projects; this work is a profile over them and does not
+  reproduce them).
+- SPIFFE and SPIRE, Open Policy Agent, OpenTelemetry, Istio, Sigstore and the
+  other open-source projects named in the Implementation Guide (their
+  respective projects and licenses; the examples reference them and ship none
+  of their code).
+
+Preferred citation: see CITATION.cff.
