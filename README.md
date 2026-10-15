@@ -1,4 +1,4 @@
-ISI Model v2.0
+AISI Model v2.0
 
 **Artificial Intelligence System Interconnection Model**
 
